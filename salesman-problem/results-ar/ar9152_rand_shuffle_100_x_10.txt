@@ -1,0 +1,75 @@
+###########   Round: 1   ###########
+#### 1 iteration -> f(n): 74336363
+#### 2 iteration -> f(n): 73112245
+
+####   Best Solution -> 2 iteration -> f(n): 73112245    ####
+
+
+###########   Round: 2   ###########
+#### 1 iteration -> f(n): 73934411
+#### 2 iteration -> f(n): 73106074
+
+####   Best Solution -> 2 iteration -> f(n): 73106074    ####
+
+
+###########   Round: 3   ###########
+#### 1 iteration -> f(n): 73916847
+#### 2 iteration -> f(n): 73063743
+
+####   Best Solution -> 2 iteration -> f(n): 73063743    ####
+
+
+###########   Round: 4   ###########
+#### 1 iteration -> f(n): 73308013
+#### 2 iteration -> f(n): 73051778
+
+####   Best Solution -> 2 iteration -> f(n): 73051778    ####
+
+
+###########   Round: 5   ###########
+#### 1 iteration -> f(n): 73944929
+#### 2 iteration -> f(n): 73292083
+#### 3 iteration -> f(n): 73176527
+#### 4 iteration -> f(n): 73062209
+
+####   Best Solution -> 4 iteration -> f(n): 73062209    ####
+
+
+###########   Round: 6   ###########
+#### 1 iteration -> f(n): 73836712
+#### 2 iteration -> f(n): 73124868
+
+####   Best Solution -> 2 iteration -> f(n): 73124868    ####
+
+
+###########   Round: 7   ###########
+#### 1 iteration -> f(n): 74558750
+#### 2 iteration -> f(n): 73107637
+
+####   Best Solution -> 2 iteration -> f(n): 73107637    ####
+
+
+###########   Round: 8   ###########
+#### 1 iteration -> f(n): 74315785
+#### 2 iteration -> f(n): 73265601
+#### 3 iteration -> f(n): 73175780
+
+####   Best Solution -> 3 iteration -> f(n): 73175780    ####
+
+
+###########   Round: 9   ###########
+#### 1 iteration -> f(n): 73710178
+#### 2 iteration -> f(n): 72842533
+
+####   Best Solution -> 2 iteration -> f(n): 72842533    ####
+
+
+###########   Round: 10   ###########
+#### 1 iteration -> f(n): 74054701
+#### 2 iteration -> f(n): 73171842
+#### 3 iteration -> f(n): 72931712
+
+####   Best Solution -> 3 iteration -> f(n): 72931712    ####
+
+
+Over all Best Solution: 10 round -> f(n): 72842533

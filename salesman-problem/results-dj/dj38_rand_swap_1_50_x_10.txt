@@ -1,0 +1,269 @@
+###########   Round: 1   ###########
+#### 1 iteration -> f(n): 26465
+#### 2 iteration -> f(n): 23184
+#### 3 iteration -> f(n): 21437
+#### 4 iteration -> f(n): 20389
+#### 5 iteration -> f(n): 19894
+#### 6 iteration -> f(n): 19342
+#### 7 iteration -> f(n): 18849
+#### 8 iteration -> f(n): 18434
+#### 9 iteration -> f(n): 18060
+#### 10 iteration -> f(n): 17315
+#### 11 iteration -> f(n): 16879
+#### 12 iteration -> f(n): 16662
+#### 13 iteration -> f(n): 16641
+#### 14 iteration -> f(n): 16432
+#### 15 iteration -> f(n): 16250
+#### 16 iteration -> f(n): 16055
+#### 17 iteration -> f(n): 16000
+#### 18 iteration -> f(n): 15631
+#### 19 iteration -> f(n): 15303
+#### 20 iteration -> f(n): 15137
+#### 21 iteration -> f(n): 15116
+
+####   Best Solution -> 21 iterations: f(n): 15116
+####     - Elapsed time: 2.3748483657836914 |  time / iterations: 0.11308801741827101
+
+
+###########   Round: 2   ###########
+#### 1 iteration -> f(n): 28600
+#### 2 iteration -> f(n): 26005
+#### 3 iteration -> f(n): 23674
+#### 4 iteration -> f(n): 23114
+#### 5 iteration -> f(n): 20348
+#### 6 iteration -> f(n): 19715
+#### 7 iteration -> f(n): 19235
+#### 8 iteration -> f(n): 17675
+#### 9 iteration -> f(n): 17235
+#### 10 iteration -> f(n): 16904
+#### 11 iteration -> f(n): 16028
+#### 12 iteration -> f(n): 15577
+#### 13 iteration -> f(n): 15205
+#### 14 iteration -> f(n): 14626
+#### 15 iteration -> f(n): 14394
+#### 16 iteration -> f(n): 13855
+#### 17 iteration -> f(n): 13531
+#### 18 iteration -> f(n): 13452
+#### 19 iteration -> f(n): 13212
+
+####   Best Solution -> 19 iterations: f(n): 13212
+####     - Elapsed time: 1.138373851776123 |  time / iterations: 0.0599144132513749
+
+
+###########   Round: 3   ###########
+#### 1 iteration -> f(n): 25197
+#### 2 iteration -> f(n): 24323
+#### 3 iteration -> f(n): 22598
+#### 4 iteration -> f(n): 21547
+#### 5 iteration -> f(n): 20368
+#### 6 iteration -> f(n): 19245
+#### 7 iteration -> f(n): 17651
+#### 8 iteration -> f(n): 17326
+#### 9 iteration -> f(n): 16909
+#### 10 iteration -> f(n): 16404
+#### 11 iteration -> f(n): 16072
+#### 12 iteration -> f(n): 15644
+#### 13 iteration -> f(n): 15501
+#### 14 iteration -> f(n): 15132
+#### 15 iteration -> f(n): 15001
+#### 16 iteration -> f(n): 14697
+#### 17 iteration -> f(n): 14393
+#### 18 iteration -> f(n): 13934
+#### 19 iteration -> f(n): 13596
+#### 20 iteration -> f(n): 13411
+#### 21 iteration -> f(n): 13341
+#### 22 iteration -> f(n): 13290
+#### 23 iteration -> f(n): 12751
+
+####   Best Solution -> 23 iterations: f(n): 12751
+####     - Elapsed time: 1.2947802543640137 |  time / iterations: 0.056294793668000595
+
+
+###########   Round: 4   ###########
+#### 1 iteration -> f(n): 28067
+#### 2 iteration -> f(n): 24596
+#### 3 iteration -> f(n): 22487
+#### 4 iteration -> f(n): 21328
+#### 5 iteration -> f(n): 20017
+#### 6 iteration -> f(n): 19183
+#### 7 iteration -> f(n): 18324
+#### 8 iteration -> f(n): 17272
+#### 9 iteration -> f(n): 16790
+#### 10 iteration -> f(n): 16637
+#### 11 iteration -> f(n): 16368
+#### 12 iteration -> f(n): 15648
+#### 13 iteration -> f(n): 15262
+#### 14 iteration -> f(n): 15097
+#### 15 iteration -> f(n): 14494
+#### 16 iteration -> f(n): 14272
+#### 17 iteration -> f(n): 14050
+#### 18 iteration -> f(n): 13414
+
+####   Best Solution -> 18 iterations: f(n): 13414
+####     - Elapsed time: 0.9885480403900146 |  time / iterations: 0.05491933557722303
+
+
+###########   Round: 5   ###########
+#### 1 iteration -> f(n): 24791
+#### 2 iteration -> f(n): 23111
+#### 3 iteration -> f(n): 21677
+#### 4 iteration -> f(n): 21225
+#### 5 iteration -> f(n): 20668
+#### 6 iteration -> f(n): 19766
+#### 7 iteration -> f(n): 19272
+#### 8 iteration -> f(n): 18742
+#### 9 iteration -> f(n): 17790
+#### 10 iteration -> f(n): 17218
+#### 11 iteration -> f(n): 16646
+#### 12 iteration -> f(n): 16482
+#### 13 iteration -> f(n): 16216
+#### 14 iteration -> f(n): 15615
+
+####   Best Solution -> 14 iterations: f(n): 15615
+####     - Elapsed time: 0.7306177616119385 |  time / iterations: 0.05218698297228132
+
+
+###########   Round: 6   ###########
+#### 1 iteration -> f(n): 26576
+#### 2 iteration -> f(n): 23877
+#### 3 iteration -> f(n): 22479
+#### 4 iteration -> f(n): 21246
+#### 5 iteration -> f(n): 19370
+#### 6 iteration -> f(n): 18633
+#### 7 iteration -> f(n): 17761
+#### 8 iteration -> f(n): 17166
+#### 9 iteration -> f(n): 16502
+#### 10 iteration -> f(n): 15452
+#### 11 iteration -> f(n): 14783
+#### 12 iteration -> f(n): 14098
+#### 13 iteration -> f(n): 13894
+#### 14 iteration -> f(n): 13416
+#### 15 iteration -> f(n): 12861
+#### 16 iteration -> f(n): 12587
+#### 17 iteration -> f(n): 12257
+#### 18 iteration -> f(n): 12219
+#### 19 iteration -> f(n): 12087
+#### 20 iteration -> f(n): 11910
+#### 21 iteration -> f(n): 11642
+#### 22 iteration -> f(n): 11426
+#### 23 iteration -> f(n): 11398
+#### 24 iteration -> f(n): 11119
+#### 25 iteration -> f(n): 11000
+#### 26 iteration -> f(n): 10749
+
+####   Best Solution -> 26 iterations: f(n): 10749
+####     - Elapsed time: 1.340428352355957 |  time / iterations: 0.051554936629075274
+
+
+###########   Round: 7   ###########
+#### 1 iteration -> f(n): 28176
+#### 2 iteration -> f(n): 26153
+#### 3 iteration -> f(n): 24209
+#### 4 iteration -> f(n): 22350
+#### 5 iteration -> f(n): 19899
+#### 6 iteration -> f(n): 18431
+#### 7 iteration -> f(n): 16838
+#### 8 iteration -> f(n): 16529
+#### 9 iteration -> f(n): 15798
+#### 10 iteration -> f(n): 15252
+#### 11 iteration -> f(n): 14928
+#### 12 iteration -> f(n): 14864
+#### 13 iteration -> f(n): 14514
+#### 14 iteration -> f(n): 14264
+#### 15 iteration -> f(n): 13461
+#### 16 iteration -> f(n): 13113
+#### 17 iteration -> f(n): 12996
+#### 18 iteration -> f(n): 12681
+#### 19 iteration -> f(n): 12394
+#### 20 iteration -> f(n): 11981
+
+####   Best Solution -> 20 iterations: f(n): 11981
+####     - Elapsed time: 1.1429550647735596 |  time / iterations: 0.057147753238677976
+
+
+###########   Round: 8   ###########
+#### 1 iteration -> f(n): 25728
+#### 2 iteration -> f(n): 23735
+#### 3 iteration -> f(n): 21894
+#### 4 iteration -> f(n): 20736
+#### 5 iteration -> f(n): 19791
+#### 6 iteration -> f(n): 19190
+#### 7 iteration -> f(n): 17084
+#### 8 iteration -> f(n): 16443
+#### 9 iteration -> f(n): 15795
+#### 10 iteration -> f(n): 15342
+#### 11 iteration -> f(n): 15287
+#### 12 iteration -> f(n): 14995
+#### 13 iteration -> f(n): 14635
+#### 14 iteration -> f(n): 14543
+#### 15 iteration -> f(n): 13902
+#### 16 iteration -> f(n): 13594
+#### 17 iteration -> f(n): 12799
+#### 18 iteration -> f(n): 12624
+#### 19 iteration -> f(n): 12374
+#### 20 iteration -> f(n): 12103
+#### 21 iteration -> f(n): 12049
+
+####   Best Solution -> 21 iterations: f(n): 12049
+####     - Elapsed time: 1.203125238418579 |  time / iterations: 0.05729167801993234
+
+
+###########   Round: 9   ###########
+#### 1 iteration -> f(n): 26262
+#### 2 iteration -> f(n): 24313
+#### 3 iteration -> f(n): 23468
+#### 4 iteration -> f(n): 22143
+#### 5 iteration -> f(n): 21401
+#### 6 iteration -> f(n): 20671
+#### 7 iteration -> f(n): 20235
+#### 8 iteration -> f(n): 18326
+#### 9 iteration -> f(n): 17750
+#### 10 iteration -> f(n): 17525
+#### 11 iteration -> f(n): 16916
+#### 12 iteration -> f(n): 15399
+#### 13 iteration -> f(n): 15091
+#### 14 iteration -> f(n): 15075
+#### 15 iteration -> f(n): 14311
+#### 16 iteration -> f(n): 14057
+#### 17 iteration -> f(n): 14002
+#### 18 iteration -> f(n): 13874
+#### 19 iteration -> f(n): 13518
+#### 20 iteration -> f(n): 13180
+#### 21 iteration -> f(n): 12803
+#### 22 iteration -> f(n): 12683
+#### 23 iteration -> f(n): 12344
+#### 24 iteration -> f(n): 12299
+#### 25 iteration -> f(n): 11653
+#### 26 iteration -> f(n): 11571
+#### 27 iteration -> f(n): 11527
+#### 28 iteration -> f(n): 11515
+#### 29 iteration -> f(n): 11441
+#### 30 iteration -> f(n): 11166
+
+####   Best Solution -> 30 iterations: f(n): 11166
+####     - Elapsed time: 1.6186468601226807 |  time / iterations: 0.05395489533742269
+
+
+###########   Round: 10   ###########
+#### 1 iteration -> f(n): 27367
+#### 2 iteration -> f(n): 24300
+#### 3 iteration -> f(n): 21619
+#### 4 iteration -> f(n): 20685
+#### 5 iteration -> f(n): 18955
+#### 6 iteration -> f(n): 17812
+#### 7 iteration -> f(n): 17049
+#### 8 iteration -> f(n): 16531
+#### 9 iteration -> f(n): 16048
+#### 10 iteration -> f(n): 15525
+#### 11 iteration -> f(n): 15255
+#### 12 iteration -> f(n): 14495
+#### 13 iteration -> f(n): 14101
+#### 14 iteration -> f(n): 13918
+#### 15 iteration -> f(n): 13780
+#### 16 iteration -> f(n): 13475
+
+####   Best Solution -> 16 iterations: f(n): 13475
+####     - Elapsed time: 0.916752815246582 |  time / iterations: 0.05729705095291138
+
+
+Over all Best Solution: 6 round -> f(n): 10749

@@ -1,0 +1,422 @@
+###########   Round: 1   ###########
+#### 1 iteration -> f(n): 73858238
+#### 2 iteration -> f(n): 73836507
+#### 3 iteration -> f(n): 73834900
+#### 4 iteration -> f(n): 73817274
+#### 5 iteration -> f(n): 73813728
+#### 6 iteration -> f(n): 73801831
+#### 7 iteration -> f(n): 73787078
+#### 8 iteration -> f(n): 73765141
+#### 9 iteration -> f(n): 73762034
+#### 10 iteration -> f(n): 73754679
+#### 11 iteration -> f(n): 73741491
+#### 12 iteration -> f(n): 73731056
+
+####   Best Solution -> 12 iterations: f(n): 73731056
+####     - Elapsed time: 10.275285005569458 |  time / iterations: 0.8562737504641215
+
+
+###########   Round: 2   ###########
+#### 1 iteration -> f(n): 73312595
+#### 2 iteration -> f(n): 73297415
+#### 3 iteration -> f(n): 73285823
+#### 4 iteration -> f(n): 73273465
+#### 5 iteration -> f(n): 73263022
+#### 6 iteration -> f(n): 73255456
+#### 7 iteration -> f(n): 73243676
+#### 8 iteration -> f(n): 73238415
+#### 9 iteration -> f(n): 73236610
+#### 10 iteration -> f(n): 73223607
+#### 11 iteration -> f(n): 73218013
+#### 12 iteration -> f(n): 73210296
+#### 13 iteration -> f(n): 73204707
+#### 14 iteration -> f(n): 73193054
+#### 15 iteration -> f(n): 73188558
+#### 16 iteration -> f(n): 73181542
+#### 17 iteration -> f(n): 73166318
+#### 18 iteration -> f(n): 73158943
+#### 19 iteration -> f(n): 73151180
+#### 20 iteration -> f(n): 73145515
+#### 21 iteration -> f(n): 73128334
+#### 22 iteration -> f(n): 73119396
+#### 23 iteration -> f(n): 73111244
+#### 24 iteration -> f(n): 73099173
+#### 25 iteration -> f(n): 73078990
+#### 26 iteration -> f(n): 73061061
+#### 27 iteration -> f(n): 73053888
+#### 28 iteration -> f(n): 73043929
+#### 29 iteration -> f(n): 73032077
+#### 30 iteration -> f(n): 73026056
+#### 31 iteration -> f(n): 73013305
+#### 32 iteration -> f(n): 73004930
+#### 33 iteration -> f(n): 72989094
+#### 34 iteration -> f(n): 72947099
+#### 35 iteration -> f(n): 72940564
+#### 36 iteration -> f(n): 72927629
+#### 37 iteration -> f(n): 72908838
+#### 38 iteration -> f(n): 72895932
+#### 39 iteration -> f(n): 72891081
+#### 40 iteration -> f(n): 72876877
+#### 41 iteration -> f(n): 72843177
+#### 42 iteration -> f(n): 72828227
+#### 43 iteration -> f(n): 72817596
+#### 44 iteration -> f(n): 72799669
+#### 45 iteration -> f(n): 72792206
+#### 46 iteration -> f(n): 72782418
+#### 47 iteration -> f(n): 72770066
+#### 48 iteration -> f(n): 72769784
+#### 49 iteration -> f(n): 72768767
+#### 50 iteration -> f(n): 72751395
+#### 51 iteration -> f(n): 72741081
+#### 52 iteration -> f(n): 72730330
+#### 53 iteration -> f(n): 72713502
+#### 54 iteration -> f(n): 72703181
+#### 55 iteration -> f(n): 72686024
+#### 56 iteration -> f(n): 72684637
+#### 57 iteration -> f(n): 72671232
+#### 58 iteration -> f(n): 72654524
+#### 59 iteration -> f(n): 72640831
+#### 60 iteration -> f(n): 72624742
+#### 61 iteration -> f(n): 72615660
+#### 62 iteration -> f(n): 72609776
+#### 63 iteration -> f(n): 72603531
+#### 64 iteration -> f(n): 72589985
+#### 65 iteration -> f(n): 72585194
+#### 66 iteration -> f(n): 72575250
+#### 67 iteration -> f(n): 72573189
+#### 68 iteration -> f(n): 72563091
+#### 69 iteration -> f(n): 72549075
+#### 70 iteration -> f(n): 72545600
+#### 71 iteration -> f(n): 72527165
+#### 72 iteration -> f(n): 72516555
+#### 73 iteration -> f(n): 72502719
+#### 74 iteration -> f(n): 72487646
+#### 75 iteration -> f(n): 72468924
+#### 76 iteration -> f(n): 72460741
+#### 77 iteration -> f(n): 72456458
+#### 78 iteration -> f(n): 72446284
+#### 79 iteration -> f(n): 72428233
+#### 80 iteration -> f(n): 72412675
+#### 81 iteration -> f(n): 72405118
+#### 82 iteration -> f(n): 72393025
+#### 83 iteration -> f(n): 72382044
+#### 84 iteration -> f(n): 72372988
+#### 85 iteration -> f(n): 72353963
+#### 86 iteration -> f(n): 72350948
+#### 87 iteration -> f(n): 72340420
+#### 88 iteration -> f(n): 72335940
+#### 89 iteration -> f(n): 72321439
+#### 90 iteration -> f(n): 72305121
+#### 91 iteration -> f(n): 72297714
+#### 92 iteration -> f(n): 72284241
+#### 93 iteration -> f(n): 72283079
+#### 94 iteration -> f(n): 72277940
+#### 95 iteration -> f(n): 72264183
+#### 96 iteration -> f(n): 72257955
+#### 97 iteration -> f(n): 72248056
+#### 98 iteration -> f(n): 72238873
+#### 99 iteration -> f(n): 72223622
+#### 100 iteration -> f(n): 72203447
+#### 101 iteration -> f(n): 72203008
+#### 102 iteration -> f(n): 72196876
+#### 103 iteration -> f(n): 72180362
+#### 104 iteration -> f(n): 72176196
+#### 105 iteration -> f(n): 72168263
+#### 106 iteration -> f(n): 72155614
+#### 107 iteration -> f(n): 72133384
+#### 108 iteration -> f(n): 72123296
+#### 109 iteration -> f(n): 72112151
+#### 110 iteration -> f(n): 72101311
+#### 111 iteration -> f(n): 72093969
+#### 112 iteration -> f(n): 72087692
+#### 113 iteration -> f(n): 72082224
+#### 114 iteration -> f(n): 72070213
+#### 115 iteration -> f(n): 72057945
+#### 116 iteration -> f(n): 72051066
+#### 117 iteration -> f(n): 72041381
+#### 118 iteration -> f(n): 72028840
+#### 119 iteration -> f(n): 72022075
+#### 120 iteration -> f(n): 72013910
+#### 121 iteration -> f(n): 72013839
+#### 122 iteration -> f(n): 71994091
+#### 123 iteration -> f(n): 71987528
+#### 124 iteration -> f(n): 71981222
+#### 125 iteration -> f(n): 71974893
+#### 126 iteration -> f(n): 71965891
+#### 127 iteration -> f(n): 71949632
+
+####   Best Solution -> 127 iterations: f(n): 71949632
+####     - Elapsed time: 113.89616870880127 |  time / iterations: 0.8968202260535533
+
+
+###########   Round: 3   ###########
+#### 1 iteration -> f(n): 73815711
+#### 2 iteration -> f(n): 73794372
+#### 3 iteration -> f(n): 73784846
+#### 4 iteration -> f(n): 73769938
+#### 5 iteration -> f(n): 73764007
+#### 6 iteration -> f(n): 73752406
+#### 7 iteration -> f(n): 73725467
+#### 8 iteration -> f(n): 73715858
+#### 9 iteration -> f(n): 73706454
+#### 10 iteration -> f(n): 73691511
+#### 11 iteration -> f(n): 73689627
+#### 12 iteration -> f(n): 73687986
+#### 13 iteration -> f(n): 73681378
+#### 14 iteration -> f(n): 73662581
+#### 15 iteration -> f(n): 73642906
+#### 16 iteration -> f(n): 73636276
+#### 17 iteration -> f(n): 73612607
+#### 18 iteration -> f(n): 73603652
+#### 19 iteration -> f(n): 73585149
+#### 20 iteration -> f(n): 73577384
+#### 21 iteration -> f(n): 73565335
+#### 22 iteration -> f(n): 73545143
+#### 23 iteration -> f(n): 73534631
+#### 24 iteration -> f(n): 73517496
+#### 25 iteration -> f(n): 73510623
+#### 26 iteration -> f(n): 73495149
+#### 27 iteration -> f(n): 73489616
+#### 28 iteration -> f(n): 73472020
+#### 29 iteration -> f(n): 73464922
+
+####   Best Solution -> 29 iterations: f(n): 73464922
+####     - Elapsed time: 27.06465244293213 |  time / iterations: 0.9332638773424872
+
+
+###########   Round: 4   ###########
+#### 1 iteration -> f(n): 73850844
+#### 2 iteration -> f(n): 73835734
+#### 3 iteration -> f(n): 73823227
+#### 4 iteration -> f(n): 73799395
+#### 5 iteration -> f(n): 73795688
+#### 6 iteration -> f(n): 73791870
+#### 7 iteration -> f(n): 73779172
+#### 8 iteration -> f(n): 73767108
+#### 9 iteration -> f(n): 73750901
+#### 10 iteration -> f(n): 73731001
+#### 11 iteration -> f(n): 73720352
+#### 12 iteration -> f(n): 73709287
+#### 13 iteration -> f(n): 73704013
+#### 14 iteration -> f(n): 73687171
+#### 15 iteration -> f(n): 73670633
+#### 16 iteration -> f(n): 73665196
+#### 17 iteration -> f(n): 73661168
+#### 18 iteration -> f(n): 73645945
+#### 19 iteration -> f(n): 73633371
+#### 20 iteration -> f(n): 73604718
+#### 21 iteration -> f(n): 73594766
+#### 22 iteration -> f(n): 73588542
+#### 23 iteration -> f(n): 73553476
+
+####   Best Solution -> 23 iterations: f(n): 73553476
+####     - Elapsed time: 20.1649272441864 |  time / iterations: 0.8767359671385392
+
+
+###########   Round: 5   ###########
+#### 1 iteration -> f(n): 73617032
+#### 2 iteration -> f(n): 73602547
+#### 3 iteration -> f(n): 73587512
+#### 4 iteration -> f(n): 73584146
+#### 5 iteration -> f(n): 73573943
+#### 6 iteration -> f(n): 73564737
+#### 7 iteration -> f(n): 73548474
+#### 8 iteration -> f(n): 73539711
+#### 9 iteration -> f(n): 73528967
+#### 10 iteration -> f(n): 73528919
+#### 11 iteration -> f(n): 73521030
+#### 12 iteration -> f(n): 73508849
+#### 13 iteration -> f(n): 73480713
+#### 14 iteration -> f(n): 73467594
+#### 15 iteration -> f(n): 73441742
+#### 16 iteration -> f(n): 73415795
+#### 17 iteration -> f(n): 73396356
+#### 18 iteration -> f(n): 73388133
+#### 19 iteration -> f(n): 73377296
+#### 20 iteration -> f(n): 73366400
+#### 21 iteration -> f(n): 73347385
+
+####   Best Solution -> 21 iterations: f(n): 73347385
+####     - Elapsed time: 18.688015937805176 |  time / iterations: 0.8899055208478656
+
+
+###########   Round: 6   ###########
+#### 1 iteration -> f(n): 74372793
+#### 2 iteration -> f(n): 74361172
+
+####   Best Solution -> 2 iterations: f(n): 74361172
+####     - Elapsed time: 0.9613955020904541 |  time / iterations: 0.48069775104522705
+
+
+###########   Round: 7   ###########
+#### 1 iteration -> f(n): 74081935
+#### 2 iteration -> f(n): 74068045
+#### 3 iteration -> f(n): 74052836
+#### 4 iteration -> f(n): 74042599
+#### 5 iteration -> f(n): 74033893
+#### 6 iteration -> f(n): 74020385
+#### 7 iteration -> f(n): 73999133
+#### 8 iteration -> f(n): 73992659
+#### 9 iteration -> f(n): 73988127
+#### 10 iteration -> f(n): 73980972
+#### 11 iteration -> f(n): 73970393
+#### 12 iteration -> f(n): 73960972
+#### 13 iteration -> f(n): 73940700
+#### 14 iteration -> f(n): 73926270
+#### 15 iteration -> f(n): 73912359
+#### 16 iteration -> f(n): 73905558
+#### 17 iteration -> f(n): 73898962
+#### 18 iteration -> f(n): 73888055
+#### 19 iteration -> f(n): 73879352
+#### 20 iteration -> f(n): 73863138
+#### 21 iteration -> f(n): 73857075
+#### 22 iteration -> f(n): 73851725
+
+####   Best Solution -> 22 iterations: f(n): 73851725
+####     - Elapsed time: 19.69393229484558 |  time / iterations: 0.8951787406747992
+
+
+###########   Round: 8   ###########
+#### 1 iteration -> f(n): 73807908
+#### 2 iteration -> f(n): 73786037
+#### 3 iteration -> f(n): 73755613
+
+####   Best Solution -> 3 iterations: f(n): 73755613
+####     - Elapsed time: 1.779520034790039 |  time / iterations: 0.5931733449300131
+
+
+###########   Round: 9   ###########
+#### 1 iteration -> f(n): 74601532
+#### 2 iteration -> f(n): 74589287
+#### 3 iteration -> f(n): 74584212
+#### 4 iteration -> f(n): 74577115
+#### 5 iteration -> f(n): 74562604
+
+####   Best Solution -> 5 iterations: f(n): 74562604
+####     - Elapsed time: 3.5070841312408447 |  time / iterations: 0.7014168262481689
+
+
+###########   Round: 10   ###########
+#### 1 iteration -> f(n): 73648214
+#### 2 iteration -> f(n): 73635849
+#### 3 iteration -> f(n): 73611166
+#### 4 iteration -> f(n): 73607800
+#### 5 iteration -> f(n): 73599969
+#### 6 iteration -> f(n): 73581313
+#### 7 iteration -> f(n): 73574550
+#### 8 iteration -> f(n): 73563329
+#### 9 iteration -> f(n): 73559308
+#### 10 iteration -> f(n): 73548635
+#### 11 iteration -> f(n): 73527499
+#### 12 iteration -> f(n): 73519880
+#### 13 iteration -> f(n): 73513801
+#### 14 iteration -> f(n): 73498328
+#### 15 iteration -> f(n): 73479839
+#### 16 iteration -> f(n): 73468076
+#### 17 iteration -> f(n): 73463744
+#### 18 iteration -> f(n): 73457130
+#### 19 iteration -> f(n): 73450728
+#### 20 iteration -> f(n): 73444745
+#### 21 iteration -> f(n): 73436251
+#### 22 iteration -> f(n): 73428248
+#### 23 iteration -> f(n): 73422044
+#### 24 iteration -> f(n): 73418069
+#### 25 iteration -> f(n): 73413961
+#### 26 iteration -> f(n): 73398512
+#### 27 iteration -> f(n): 73386757
+#### 28 iteration -> f(n): 73369141
+#### 29 iteration -> f(n): 73363930
+#### 30 iteration -> f(n): 73341393
+#### 31 iteration -> f(n): 73330937
+#### 32 iteration -> f(n): 73325754
+#### 33 iteration -> f(n): 73313499
+#### 34 iteration -> f(n): 73298520
+#### 35 iteration -> f(n): 73290627
+#### 36 iteration -> f(n): 73275550
+#### 37 iteration -> f(n): 73274645
+#### 38 iteration -> f(n): 73262216
+#### 39 iteration -> f(n): 73249664
+#### 40 iteration -> f(n): 73240139
+#### 41 iteration -> f(n): 73232484
+#### 42 iteration -> f(n): 73228418
+#### 43 iteration -> f(n): 73216367
+#### 44 iteration -> f(n): 73210639
+#### 45 iteration -> f(n): 73206235
+#### 46 iteration -> f(n): 73186717
+#### 47 iteration -> f(n): 73181833
+#### 48 iteration -> f(n): 73175707
+#### 49 iteration -> f(n): 73174519
+#### 50 iteration -> f(n): 73158185
+#### 51 iteration -> f(n): 73153374
+#### 52 iteration -> f(n): 73144109
+#### 53 iteration -> f(n): 73137399
+#### 54 iteration -> f(n): 73132676
+#### 55 iteration -> f(n): 73131914
+#### 56 iteration -> f(n): 73131653
+#### 57 iteration -> f(n): 73126331
+#### 58 iteration -> f(n): 73111155
+#### 59 iteration -> f(n): 73105561
+#### 60 iteration -> f(n): 73103377
+#### 61 iteration -> f(n): 73097945
+#### 62 iteration -> f(n): 73092712
+#### 63 iteration -> f(n): 73071276
+#### 64 iteration -> f(n): 73056356
+#### 65 iteration -> f(n): 73043363
+#### 66 iteration -> f(n): 73028333
+#### 67 iteration -> f(n): 73004215
+#### 68 iteration -> f(n): 72996969
+#### 69 iteration -> f(n): 72983897
+#### 70 iteration -> f(n): 72970372
+#### 71 iteration -> f(n): 72940326
+#### 72 iteration -> f(n): 72939100
+#### 73 iteration -> f(n): 72917500
+#### 74 iteration -> f(n): 72903647
+#### 75 iteration -> f(n): 72894523
+#### 76 iteration -> f(n): 72874702
+#### 77 iteration -> f(n): 72866980
+#### 78 iteration -> f(n): 72858172
+#### 79 iteration -> f(n): 72848166
+#### 80 iteration -> f(n): 72839928
+#### 81 iteration -> f(n): 72827939
+#### 82 iteration -> f(n): 72820169
+#### 83 iteration -> f(n): 72815121
+#### 84 iteration -> f(n): 72804068
+#### 85 iteration -> f(n): 72790809
+#### 86 iteration -> f(n): 72782859
+#### 87 iteration -> f(n): 72767456
+#### 88 iteration -> f(n): 72764007
+#### 89 iteration -> f(n): 72752288
+#### 90 iteration -> f(n): 72748395
+#### 91 iteration -> f(n): 72727388
+#### 92 iteration -> f(n): 72721948
+#### 93 iteration -> f(n): 72708138
+#### 94 iteration -> f(n): 72693040
+#### 95 iteration -> f(n): 72680952
+#### 96 iteration -> f(n): 72672329
+#### 97 iteration -> f(n): 72666366
+#### 98 iteration -> f(n): 72653675
+#### 99 iteration -> f(n): 72653321
+#### 100 iteration -> f(n): 72650492
+#### 101 iteration -> f(n): 72632008
+#### 102 iteration -> f(n): 72620811
+#### 103 iteration -> f(n): 72605594
+#### 104 iteration -> f(n): 72603926
+#### 105 iteration -> f(n): 72599469
+#### 106 iteration -> f(n): 72587234
+#### 107 iteration -> f(n): 72582104
+#### 108 iteration -> f(n): 72575049
+#### 109 iteration -> f(n): 72568912
+#### 110 iteration -> f(n): 72562766
+#### 111 iteration -> f(n): 72558928
+#### 112 iteration -> f(n): 72549405
+#### 113 iteration -> f(n): 72527433
+#### 114 iteration -> f(n): 72518013
+#### 115 iteration -> f(n): 72512967
+#### 116 iteration -> f(n): 72498431
+#### 117 iteration -> f(n): 72487796
+
+####   Best Solution -> 117 iterations: f(n): 72487796
+####     - Elapsed time: 102.06013250350952 |  time / iterations: 0.8723088248163207
+
+
+Over all Best Solution: 2 round -> f(n): 71949632

@@ -1,0 +1,85 @@
+###########   Round: 1   ###########
+#### 1 iteration -> f(n): 28049
+#### 2 iteration -> f(n): 22093
+
+####   Best Solution -> 2 iterations: f(n): 22093
+####     - Elapsed time: 0.9623274803161621 |  time / iterations: 0.48116374015808105
+
+
+###########   Round: 2   ###########
+#### 1 iteration -> f(n): 28748
+#### 2 iteration -> f(n): 23906
+#### 3 iteration -> f(n): 20505
+
+####   Best Solution -> 3 iterations: f(n): 20505
+####     - Elapsed time: 0.11171722412109375 |  time / iterations: 0.03723907470703125
+
+
+###########   Round: 3   ###########
+#### 1 iteration -> f(n): 27397
+#### 2 iteration -> f(n): 22679
+
+####   Best Solution -> 2 iterations: f(n): 22679
+####     - Elapsed time: 0.06117367744445801 |  time / iterations: 0.030586838722229004
+
+
+###########   Round: 4   ###########
+#### 1 iteration -> f(n): 27253
+#### 2 iteration -> f(n): 21126
+
+####   Best Solution -> 2 iterations: f(n): 21126
+####     - Elapsed time: 0.0602109432220459 |  time / iterations: 0.03010547161102295
+
+
+###########   Round: 5   ###########
+#### 1 iteration -> f(n): 24352
+#### 2 iteration -> f(n): 23969
+#### 3 iteration -> f(n): 22412
+
+####   Best Solution -> 3 iterations: f(n): 22412
+####     - Elapsed time: 0.10210728645324707 |  time / iterations: 0.03403576215108236
+
+
+###########   Round: 6   ###########
+#### 1 iteration -> f(n): 27593
+#### 2 iteration -> f(n): 24141
+#### 3 iteration -> f(n): 23782
+
+####   Best Solution -> 3 iterations: f(n): 23782
+####     - Elapsed time: 0.09741401672363281 |  time / iterations: 0.0324713389078776
+
+
+###########   Round: 7   ###########
+#### 1 iteration -> f(n): 28608
+#### 2 iteration -> f(n): 23298
+
+####   Best Solution -> 2 iterations: f(n): 23298
+####     - Elapsed time: 0.04629850387573242 |  time / iterations: 0.02314925193786621
+
+
+###########   Round: 8   ###########
+#### 1 iteration -> f(n): 27930
+#### 2 iteration -> f(n): 24432
+#### 3 iteration -> f(n): 22979
+
+####   Best Solution -> 3 iterations: f(n): 22979
+####     - Elapsed time: 0.0947577953338623 |  time / iterations: 0.0315859317779541
+
+
+###########   Round: 9   ###########
+#### 1 iteration -> f(n): 24899
+#### 2 iteration -> f(n): 22967
+
+####   Best Solution -> 2 iterations: f(n): 22967
+####     - Elapsed time: 0.04846835136413574 |  time / iterations: 0.02423417568206787
+
+
+###########   Round: 10   ###########
+#### 1 iteration -> f(n): 26462
+#### 2 iteration -> f(n): 22600
+
+####   Best Solution -> 2 iterations: f(n): 22600
+####     - Elapsed time: 0.048555612564086914 |  time / iterations: 0.024277806282043457
+
+
+Over all Best Solution: 2 round -> f(n): 20505
